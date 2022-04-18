@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "http//:calebjoshuapaul.github.io/todo-app/precache-manifest.28573ccaa8b846a30945cfb00507602b.js"
+  "https//:calebjoshuapaul.github.io/todo-app/precache-manifest.16840dda1e69de443a08da30e49e2cf4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("http//:calebjoshuapaul.github.io/todo-app/index.html", {
+workbox.routing.registerNavigationRoute("https//:calebjoshuapaul.github.io/todo-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
