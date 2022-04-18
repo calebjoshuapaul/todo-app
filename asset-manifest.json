@@ -1,13 +1,13 @@
 {
-  "main.css": "https//:calebjoshuapaul.github.io/todo-app/static/css/main.b258b457.chunk.css",
-  "main.js": "https//:calebjoshuapaul.github.io/todo-app/static/js/main.953dd6d8.chunk.js",
-  "main.js.map": "https//:calebjoshuapaul.github.io/todo-app/static/js/main.953dd6d8.chunk.js.map",
-  "static/js/1.4714a85d.chunk.js": "https//:calebjoshuapaul.github.io/todo-app/static/js/1.4714a85d.chunk.js",
-  "static/js/1.4714a85d.chunk.js.map": "https//:calebjoshuapaul.github.io/todo-app/static/js/1.4714a85d.chunk.js.map",
-  "runtime~main.js": "https//:calebjoshuapaul.github.io/todo-app/static/js/runtime~main.f30cd2b5.js",
-  "runtime~main.js.map": "https//:calebjoshuapaul.github.io/todo-app/static/js/runtime~main.f30cd2b5.js.map",
-  "static/css/main.b258b457.chunk.css.map": "https//:calebjoshuapaul.github.io/todo-app/static/css/main.b258b457.chunk.css.map",
-  "index.html": "https//:calebjoshuapaul.github.io/todo-app/index.html",
-  "precache-manifest.16840dda1e69de443a08da30e49e2cf4.js": "https//:calebjoshuapaul.github.io/todo-app/precache-manifest.16840dda1e69de443a08da30e49e2cf4.js",
-  "service-worker.js": "https//:calebjoshuapaul.github.io/todo-app/service-worker.js"
+  "main.css": "/todo-app/static/css/main.b258b457.chunk.css",
+  "main.js": "/todo-app/static/js/main.d71f54cc.chunk.js",
+  "main.js.map": "/todo-app/static/js/main.d71f54cc.chunk.js.map",
+  "static/js/1.4714a85d.chunk.js": "/todo-app/static/js/1.4714a85d.chunk.js",
+  "static/js/1.4714a85d.chunk.js.map": "/todo-app/static/js/1.4714a85d.chunk.js.map",
+  "runtime~main.js": "/todo-app/static/js/runtime~main.84c007b1.js",
+  "runtime~main.js.map": "/todo-app/static/js/runtime~main.84c007b1.js.map",
+  "static/css/main.b258b457.chunk.css.map": "/todo-app/static/css/main.b258b457.chunk.css.map",
+  "index.html": "/todo-app/index.html",
+  "precache-manifest.db536a31a4e459df0a32a84457d0871d.js": "/todo-app/precache-manifest.db536a31a4e459df0a32a84457d0871d.js",
+  "service-worker.js": "/todo-app/service-worker.js"
 }
